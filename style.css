@@ -1,0 +1,65 @@
+/* body{
+    text-align: center;
+}
+
+div{
+    width: 500px;
+    height: 100px;
+    border: 1px black solid;
+    margin: auto;
+} */ 
+ 
+
+/* Event Bubbling-------- */
+
+ 
+/* div{
+    background-color: pink;
+    width:400px;
+    height : 200px;
+
+}
+ul{
+    background-color: yellow;
+}
+li{
+    background-color: blue;
+}  */
+
+
+/* =========Simon sage game======= */
+
+
+ body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 10px solid black;
+    margin: 2.5rem ;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;   
+}
+.purple{
+    background-color: purple ;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: rgb(6, 6, 6);
+}
